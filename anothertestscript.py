@@ -6,3 +6,6 @@ def sickcrazyfunction() -> dict:
     b = np.zeros((3, 3))
     insanelynicedict = {a: a, b: b}
     return insanelynicedict
+
+
+c = ["HOLY SHIT THAT IS CRAZY"]
