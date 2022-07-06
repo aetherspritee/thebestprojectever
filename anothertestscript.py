@@ -9,3 +9,4 @@ def sickcrazyfunction() -> dict:
 
 
 c = ["HOLY SHIT THAT IS CRAZY"]
+e = ["EMIL IST EIN AFFE"]
